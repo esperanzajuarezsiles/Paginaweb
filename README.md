@@ -4,4 +4,4 @@
 
 
 
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://legendary-croissant-04ed79.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Pascualina](https://legendary-croissant-04ed79.netlify.app/)
