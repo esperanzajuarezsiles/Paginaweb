@@ -1,0 +1,30 @@
+body{
+    background-color: plum;
+    color: #453857;
+    font-family: 'kodchasan', sans-serif;
+}
+
+
+h1, li{
+    color: purple;
+}
+
+
+h3{
+    color: #4b2942;
+}
+
+
+img{
+    width: 300px;
+    height:300px;
+    border-style:outset;
+    border-width: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+
+footer{
+    background-color: gray;
+}
+
